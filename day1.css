@@ -1,0 +1,89 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.firstheading{
+    padding-left: 2px;
+    background-color: rgb(168, 127, 255);
+       color: rgb(243, 144, 144);
+       text-align: lefts;  
+}
+.another{
+    background-color: rgb(255, 127, 221);
+    color:rgb(165, 42, 42);
+    text-align: center;
+    padding-left: 1px;     
+}
+.head3{
+    background-color: rgb(185, 127, 255);
+    color: rgb(42, 130, 165);
+    text-align: left;
+    padding-left: 3px; 
+  
+}
+.thym{
+    background-color: rgb(238, 255, 127);
+    color: rgba(165, 42, 42, 0.293);
+    text-align: center;
+    padding-left: 4px;
+ 
+}
+.winter{
+    background-color: rgb(168, 170, 169);
+    color: rgba(165, 42, 42, 0.036);
+    text-align: center;
+    padding-left: 1px;
+ 
+}
+.summer{
+    background-color: rgba(68, 80, 76, 0.982);
+    color: rgb(245, 235, 235);
+    text-align: right;
+    padding-left: 5px; 
+
+}
+.flower{
+    background-color: rgb(255, 189, 127);
+    color: rgb(42, 118, 165);
+    text-align: center;
+    padding-left: 1px;
+}
+.hello{
+    background-color: rgb(255, 165, 127);
+    color: rgb(42, 87, 165);
+    text-align: center;
+    padding-left: 1px;
+ 
+}
+.dell{
+    background-color: rgb(195, 127, 255);
+    color: rgb(165, 42, 101);
+    text-align: center;
+    padding-left: 5px
+    
+}
+.tea{
+    background-color: rgb(242, 255, 127);
+    color: rgb(235, 80, 80);
+    text-align: center;
+    padding-left: 1px;
+    display: inline-block;
+ 
+}
+.cake{
+    background-color: rgb(255, 127, 129);
+    color: rgb(42, 165, 108);
+    text-align: center;
+    padding-left: 1px;
+    display: inline-block;
+
+   
+}
+
+.another{
+ width: 200; 
+ height: 200;
+ margin: auto;
+
+}
+
